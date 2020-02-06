@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": 4,
+      "nombre": "Torta de Zanahoria con crema",
+      "precio": "45"
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "nombre": "Pastel de Fresa",
+      "precio": "40",
+      "id": 6
+    },
+    {
+      "nombre": "Brownies",
+      "precio": "20",
+      "id": 7
+    },
+    {
+      "nombre": "Chocolate Caliente",
+      "precio": "50",
+      "id": 8
+    },
+    {
+      "nombre": "Roll de Canela",
+      "precio": "20",
+      "id": 9
+    }
+  ]
+}
